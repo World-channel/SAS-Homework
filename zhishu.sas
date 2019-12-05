@@ -22,5 +22,3 @@ data end;
   if n=1 then output;
 run;
 
-data;
-run;
